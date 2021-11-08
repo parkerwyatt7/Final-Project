@@ -1,0 +1,51 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+"Turtle animals"
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A program that allows the user to input an animal they would like to see and the program will use turtles to draw the animal. The program will likely 
+be set to a fixed list of animals.
+
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+My software will ask the user to input an animal name to begin with. After that it will use a range of if statements to determine the movement 
+of the turtles. So lets say the user inputs a cat as their animal, a window will pop up and it will show the image of a cat with some detail, such as 
+showing whiskers, eyes, ears, a tail, etc.
+
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+I plan to use this final project for this class exclusively.
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+I will be working on this alone.
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+Good outcome for this software would be the turtles moving the way I want to, but regardless I think the outcome will be accomplished.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+A better outcome for my final project would be preparing the base code and then working on each animal individually to see how I want the image of 
+each animal to look like
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+The best outcome for this project would be setting backgroudn images for each animal, maybe adding more extensive detail to the images that are drawn 
+such as hair or distinct features the animal would have to show a better, cleaner image.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+So far, as I am prepping for the final project, The steps I would need to do would be 
+1. Create the program and start making a simple layout of what I think it should look like.
+2. Create the if statements for each animal.
+3. Work with turtles to see the outcome I desire for each animal's image.
+4. Put background images behind each animal of their habitat for a cleaner final display.
+I won't need to learn any new skills for this as everything has been taught to us so far. And the topics I will need to research 
+aren't anything too complex, just an image of an animal I want to use as a tutorial for how I want the turtles to be used.
+
