@@ -15,3 +15,6 @@ I plan on working alone
 ## Do you have any questions of your own?
 
 Does the final project have to be a complicated project for us to do? Something that wouldnt necessarily take less than a day to do?
+
+Link for final project Youtube video:
+https://www.youtube.com/watch?v=SsNF-gdfUN4
